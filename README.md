@@ -1,3 +1,11 @@
+# Unofficial version of PHP sdk for Oracle Cloud Infrastructure
+
+Do not use this version of the SDK in production. This version is not supported / maintained by Oracle.
+
+This is an unofficial version of the PHP SDK for Oracle Cloud Infrastructure. This version is based on the official version of the SDK, but with a workaround to address the issue of the SDK using an older version of Guzzle. The workaround involves using a newer version of Guzzle, which is compatible with the SDK.
+
+
+
 # Oracle Cloud Infrastructure SDK for PHP
 
 ## About
